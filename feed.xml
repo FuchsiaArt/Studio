@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>FuchsiaArt</title>
+    <link href="https://fuchsiaart.github.io/Studio/feed.xml" rel="self" />
+    <link href="https://fuchsiaart.github.io/Studio" />
+    <updated>2024-04-21T20:29:33+12:00</updated>
+    <author>
+        <name>Lihui Lee</name>
+    </author>
+    <id>https://fuchsiaart.github.io/Studio</id>
+
+    <entry>
+        <title>huiluhipewHDIOWEP;</title>
+        <author>
+            <name>Lihui Lee</name>
+        </author>
+        <link href="https://fuchsiaart.github.io/Studio/huiluhipewhdiowep.html"/>
+        <id>https://fuchsiaart.github.io/Studio/huiluhipewhdiowep.html</id>
+
+        <updated>2024-04-21T20:29:33+12:00</updated>
+            <summary>
+                <![CDATA[
+                    dwe
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>dwe</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

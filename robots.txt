@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://fuchsiaart.github.io/Studio/sitemap.xml

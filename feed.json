@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "FuchsiaArt",
+    "description": "",
+    "home_page_url": "https://fuchsiaart.github.io/Studio",
+    "feed_url": "https://fuchsiaart.github.io/Studio/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Lihui Lee"
+    },
+    "items": [
+        {
+            "id": "https://fuchsiaart.github.io/Studio/huiluhipewhdiowep.html",
+            "url": "https://fuchsiaart.github.io/Studio/huiluhipewhdiowep.html",
+            "title": "huiluhipewHDIOWEP;",
+            "summary": "dwe",
+            "content_html": "<p>dwe</p>",
+            "author": {
+                "name": "Lihui Lee"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-04-21T20:29:33+12:00",
+            "date_modified": "2024-04-21T20:29:33+12:00"
+        }
+    ]
+}
