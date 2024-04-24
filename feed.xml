@@ -3,7 +3,7 @@
     <title>FuchsiaArt</title>
     <link href="https://fuchsiaart.github.io/Studio/feed.xml" rel="self" />
     <link href="https://fuchsiaart.github.io/Studio" />
-    <updated>2024-04-21T22:45:46+12:00</updated>
+    <updated>2024-04-25T11:17:57+12:00</updated>
     <author>
         <name>Lihui Lee</name>
     </author>
@@ -20,12 +20,12 @@
         <updated>2024-04-21T20:29:33+12:00</updated>
             <summary>
                 <![CDATA[
-                    Look at the amazing website
+                    Look at the amazing website 3
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Look at the amazing website</p>
+                <p>Look at the amazing website 3</p>
             ]]>
         </content>
     </entry>
