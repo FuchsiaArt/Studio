@@ -3,12 +3,95 @@
     <title>FuchsiaArt</title>
     <link href="https://fuchsiaart.github.io/Studio/feed.xml" rel="self" />
     <link href="https://fuchsiaart.github.io/Studio" />
-    <updated>2024-04-25T11:24:36+12:00</updated>
+    <updated>2024-04-25T12:06:53+12:00</updated>
     <author>
         <name>Lihui Lee</name>
     </author>
     <id>https://fuchsiaart.github.io/Studio</id>
 
+    <entry>
+        <title>ddd</title>
+        <author>
+            <name>Lihui Lee</name>
+        </author>
+        <link href="https://fuchsiaart.github.io/Studio/ddd.html"/>
+        <id>https://fuchsiaart.github.io/Studio/ddd.html</id>
+
+        <updated>2024-04-25T12:06:53+12:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Testing</title>
+        <author>
+            <name>Lihui Lee</name>
+        </author>
+        <link href="https://fuchsiaart.github.io/Studio/testing.html"/>
+        <id>https://fuchsiaart.github.io/Studio/testing.html</id>
+
+        <updated>2024-04-25T12:05:59+12:00</updated>
+            <summary>
+                <![CDATA[
+                    sssssssssssssssss
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>sssssssssssssssss</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>fuschiaaaaaaa</title>
+        <author>
+            <name>Lihui Lee</name>
+        </author>
+        <link href="https://fuchsiaart.github.io/Studio/fuschiaaaaaaa.html"/>
+        <id>https://fuchsiaart.github.io/Studio/fuschiaaaaaaa.html</id>
+
+        <updated>2024-04-25T12:02:43+12:00</updated>
+            <summary>
+                <![CDATA[
+                    xxxx Hallo this is my 3rd post
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1><a href="https://fuchsiaart.github.io/Studio"></a>xxxx</h1>
+<p>Hallo this is my 3rd post</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>This is Fuschia Art</title>
+        <author>
+            <name>Lihui Lee</name>
+        </author>
+        <link href="https://fuchsiaart.github.io/Studio/this-is-fuschia-art.html"/>
+        <id>https://fuchsiaart.github.io/Studio/this-is-fuschia-art.html</id>
+
+        <updated>2024-04-25T11:59:13+12:00</updated>
+            <summary>
+                <![CDATA[
+                    Hallo this is Fuschia Heading 2 Heading 3
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h1>Hallo this is Fuschia</h1>
+<h2>Heading 2</h2>
+<h3>Heading 3</h3>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Good afternoon this is Lee Lihui art studio</title>
         <author>
