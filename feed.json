@@ -10,73 +10,16 @@
     },
     "items": [
         {
-            "id": "https://fuchsiaart.github.io/Studio/ddd.html",
-            "url": "https://fuchsiaart.github.io/Studio/ddd.html",
-            "title": "ddd",
-            "content_html": "\n  <p>\n    \n  </p>",
+            "id": "https://fuchsiaart.github.io/Studio/fuschia-art.html",
+            "url": "https://fuchsiaart.github.io/Studio/fuschia-art.html",
+            "title": "Fuschia Art",
             "author": {
                 "name": "Lihui Lee"
             },
             "tags": [
             ],
-            "date_published": "2024-04-25T12:06:53+12:00",
-            "date_modified": "2024-04-25T12:06:53+12:00"
-        },
-        {
-            "id": "https://fuchsiaart.github.io/Studio/testing.html",
-            "url": "https://fuchsiaart.github.io/Studio/testing.html",
-            "title": "Testing",
-            "summary": "sssssssssssssssss",
-            "content_html": "<p>sssssssssssssssss</p>",
-            "author": {
-                "name": "Lihui Lee"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-04-25T12:05:59+12:00",
-            "date_modified": "2024-04-25T12:05:59+12:00"
-        },
-        {
-            "id": "https://fuchsiaart.github.io/Studio/fuschiaaaaaaa.html",
-            "url": "https://fuchsiaart.github.io/Studio/fuschiaaaaaaa.html",
-            "title": "fuschiaaaaaaa",
-            "summary": "xxxx Hallo this is my 3rd post",
-            "content_html": "<h1><a href=\"https://fuchsiaart.github.io/Studio\"></a>xxxx</h1>\n<p>Hallo this is my 3rd post</p>\n<p> </p>",
-            "author": {
-                "name": "Lihui Lee"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-04-25T12:02:43+12:00",
-            "date_modified": "2024-04-25T12:02:43+12:00"
-        },
-        {
-            "id": "https://fuchsiaart.github.io/Studio/this-is-fuschia-art.html",
-            "url": "https://fuchsiaart.github.io/Studio/this-is-fuschia-art.html",
-            "title": "This is Fuschia Art",
-            "summary": "Hallo this is Fuschia Heading 2 Heading 3",
-            "content_html": "<h1>Hallo this is Fuschia</h1>\n<h2>Heading 2</h2>\n<h3>Heading 3</h3>",
-            "author": {
-                "name": "Lihui Lee"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-04-25T11:59:13+12:00",
-            "date_modified": "2024-04-25T11:59:13+12:00"
-        },
-        {
-            "id": "https://fuchsiaart.github.io/Studio/huiluhipewhdiowep.html",
-            "url": "https://fuchsiaart.github.io/Studio/huiluhipewhdiowep.html",
-            "title": "Good afternoon this is Lee Lihui art studio",
-            "summary": "Look at the amazing website 15",
-            "content_html": "<p>Look at the amazing website 15</p>",
-            "author": {
-                "name": "Lihui Lee"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-04-21T20:29:33+12:00",
-            "date_modified": "2024-04-25T11:24:36+12:00"
+            "date_published": "2024-04-25T12:49:24+12:00",
+            "date_modified": "2024-04-25T12:49:24+12:00"
         }
     ]
 }
