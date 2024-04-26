@@ -3,21 +3,22 @@
     <title>FuchsiaArt</title>
     <link href="https://fuchsiaart.github.io/Studio/feed.xml" rel="self" />
     <link href="https://fuchsiaart.github.io/Studio" />
-    <updated>2024-04-25T12:55:48+12:00</updated>
+    <updated>2024-04-26T13:29:46+12:00</updated>
     <author>
         <name>Lihui Lee</name>
     </author>
     <id>https://fuchsiaart.github.io/Studio</id>
 
     <entry>
-        <title>Fuschia Art2</title>
+        <title>Fuchsia Art2</title>
         <author>
             <name>Lihui Lee</name>
         </author>
-        <link href="https://fuchsiaart.github.io/Studio/fuschia-art.html"/>
-        <id>https://fuchsiaart.github.io/Studio/fuschia-art.html</id>
+        <link href="https://fuchsiaart.github.io/Studio/fuchsia-art.html"/>
+        <id>https://fuchsiaart.github.io/Studio/fuchsia-art.html</id>
+        <media:content url="https://fuchsiaart.github.io/Studio/media/posts/4/_018Fuchsia-bird.JPG" medium="image" />
 
-        <updated>2024-04-25T12:49:24+12:00</updated>
+        <updated>2024-04-25T22:51:04+12:00</updated>
             <summary></summary>
         <content></content>
     </entry>
